@@ -1,0 +1,14 @@
+.Button {
+  background: #070709;
+  border: 0.1em solid #00DDFF;
+  border-radius: 0.25em;
+  color: #00DDFF;
+  font-family: 'Open Sans';
+  font-size: 1.5em;
+  padding: 0.5em 1em;
+}
+
+.Button:hover {
+  background: #00DDFF;
+  color: #070709;
+}
