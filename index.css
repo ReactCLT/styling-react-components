@@ -1,0 +1,11 @@
+/* for presentation purposes only */
+
+#root {
+  display: flex;
+  justify-content: center;
+  padding-top: 4em;
+}
+
+body {
+  background: #070709;
+}

@@ -10,4 +10,4 @@ npm install
 npm start
 ```
 
-Modify the `import` statement in `examples/index.js` to explore different examples. :thumbsup:
+Modify the `import` statement in `index.js` to explore different examples.

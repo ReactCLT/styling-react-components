@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// uncomment the line of the example you would like to see:
+// Uncomment the line of the example you would like to see:
 
 import Button
   from './vanilla/Button';
