@@ -1,5 +1,4 @@
 const { resolve } = require('path');
-const OpenBrowserPlugin = require('open-browser-webpack-plugin');
 
 module.exports = {
   entry: [
@@ -18,8 +17,5 @@ module.exports = {
       { test: /\.js$/, use: 'babel-loader', exclude: /node_modules/ },
       { test: /\.json$/, use: 'json-loader' }
     ]
-  },
-  plugins: [
-    new OpenBrowserPlugin()
-  ]
+  }
 }

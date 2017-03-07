@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// Uncomment the line of the example you would like to see:
-
 import Button
   from './vanilla/Button';
   // from './inline/Button';
@@ -11,10 +9,12 @@ import Button
   // from './aphrodite/Button';
   // from './styled-components/Button';
 
+import Divider from './styled-components/Divider';
 
 const App = () => (
   <div>
     <Button>Styled Button</Button>
+    <Divider/>
   </div>
 );
 
