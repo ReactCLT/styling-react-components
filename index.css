@@ -10,3 +10,9 @@
 body {
   background: #070709;
 }
+
+hr {
+  width: 25em;
+  margin: 4em 0;
+  opacity: 0.5;
+}

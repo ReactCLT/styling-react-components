@@ -9,12 +9,13 @@ import Button
   // from './aphrodite/Button';
   // from './styled-components/Button';
 
-import Divider from './styled-components/Divider';
+import Logo from './styled-components/Logo';
 
 const App = () => (
   <div>
     <Button>Styled Button</Button>
-    <Divider/>
+    <hr/>
+    <Logo spin alternate/>
   </div>
 );
 
