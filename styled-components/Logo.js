@@ -1,6 +1,6 @@
 import styled, { keyframes } from 'styled-components';
 
-const size = '12em';
+const size = '9em';
 
 const spin = keyframes`
   from {
