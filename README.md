@@ -1,4 +1,4 @@
-# Styled Components Talk
+# Styling React Components Talk
 
 Working examples of solutions provided in [@nickbreaton](https://github.com/nickbreaton)'s [Styling React Components talk](https://www.meetup.com/ReactJS-Charlotte/events/237247341/).
 
