@@ -23,10 +23,10 @@ const App = () => (
     {/* Can be styled by each included styling library (change imports above): */}
     <Button>Styled Button</Button>
     <hr/>
-    {/* Try adding 'alternative' attribute: */}
+    {/* Try adding 'alternate' attribute: */}
     <Logo spin/>
     <hr/>
-    {/* Change 'theme' attribute to 'theme.light': */}
+    {/* Try changing the 'theme' attribute to 'theme.light': */}
     <ThemeProvider theme={theme.dark}>
       <Post>
         {baconipsum(50)}
